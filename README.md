@@ -7,9 +7,9 @@ Welcome to the repository for a basic Large Language Model (LLM) developed predo
 This project is an embodiment of my learning journey into the world of Large Language Models and their implementation using deep learning libraries like PyTorch. After a lot of learning I thought it would be best to see what I could do with implementation. 
 
 ### 📚 Resources and Inspirations
-
 Throughout this journey, several resources have substantially contributed to shaping my understanding and implementation:
-- **Courses:** DeepLearning.ai's [Generative AI with LLMs]([https://www.deeplearning.ai/](https://www.deeplearning.ai/courses/generative-ai-with-llms/)).
+- **Courses:** DeepLearning.ai's [Generative AI with LLMs](https://www.deeplearning.ai/](https://www.deeplearning.ai/courses/generative-ai-with-llms/
+)
 - **Papers:**
   - [Attention is All You Need](https://arxiv.org/abs/1706.03762)
   - [Language Models are Few Shot Learners](https://arxiv.org/abs/2005.14165)
